@@ -1,0 +1,19 @@
+# Ignore virtual environment directories
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore other files that are specific to the virtual environment
+.Python
+myenv
+model
+
+jupyter_notebook
+venv
+.env

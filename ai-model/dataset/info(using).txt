@@ -1,0 +1,16 @@
+so use the website http://127.0.0.1:5001/test to check the server running or not 
+then during testing of the ml model in postman , you have to create a request and then give the link http://127.0.0.1:5001/predict_risk with the body raw and json snippet like:{
+    "drug_a": "Ibuprofen",
+    "drug_b": "Aspirin"
+} 
+and ur expected output will be :
+{
+    "interaction_info": {
+        "alternatives": "Acetaminophen",
+        "interaction_type": "Increased bleeding risk",
+        "side_effects": "Nausea, stomach pain"
+    },
+    "risk_level": "High"
+}
+just run this using python checker.py 
+and this happens in a virtual environment 

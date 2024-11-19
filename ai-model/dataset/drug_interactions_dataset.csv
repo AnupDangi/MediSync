@@ -1,0 +1,501 @@
+Drug A,Drug B,Interaction Type,Side Effects,Alternatives,Risk Level
+Ibuprofen,Aspirin,Increased bleeding risk,"Nausea, stomach pain",Acetaminophen,High
+Lisinopril,Spironolactone,Hyperkalemia (high potassium),"Fatigue, confusion",Amlodipine,High
+Warfarin,Amoxicillin,Decreased efficacy of Warfarin,"Bruising, blood clots",Enoxaparin,Moderate
+Simvastatin,Grapefruit Juice,Increased statin levels,"Muscle pain, liver damage",Rosuvastatin (no interaction),High
+Metformin,Cimetidine,Increased metformin levels,"Nausea, stomach pain",Famotidine,Moderate
+Prednisone,Ibuprofen,Gastrointestinal bleeding risk,"Stomach ulcers, GI bleeding",Acetaminophen,High
+Sertraline,St. John’s Wort,Serotonin syndrome risk,"Agitation, sweating",No herbal alternatives,High
+Ciprofloxacin,Theophylline,Increased theophylline levels,"Nausea, vomiting",Levofloxacin,Moderate
+Digoxin,Furosemide,Increased digoxin toxicity,"Confusion, vision changes",ACE inhibitors,High
+Enalapril,Potassium Supplements,Hyperkalemia,"Irregular heartbeats, weakness",No supplementation,High
+Aspirin,Ginkgo Biloba,Increased bleeding risk,"Easy bruising, internal bleeding",Fish oil (lower dose),Moderate
+Clopidogrel,Omeprazole,Reduced clopidogrel efficacy,Blood clots,Pantoprazole,Moderate
+Fluoxetine,Tramadol,Serotonin syndrome,"Agitation, hallucinations",Bupropion,High
+Amiodarone,Warfarin,Increased bleeding risk,"Easy bruising, internal bleeding",Beta-blockers,High
+Rifampin,Oral Contraceptives,Decreased efficacy of contraceptives,Unplanned pregnancy risk,Barrier methods,High
+Lithium,NSAIDs,Increased lithium levels,"Tremors, nausea",Acetaminophen,High
+Phenytoin,Doxycycline,Decreased antibiotic efficacy,Infections,Amoxicillin,Moderate
+Metoprolol,Verapamil,Bradycardia (low heart rate),"Dizziness, fatigue",Amlodipine,High
+Olanzapine,Benzodiazepines,Increased sedation,"Drowsiness, confusion",SSRIs,Moderate
+Sildenafil,Nitrates,Severe hypotension,"Dizziness, fainting",None,Very High
+Ibuprofen,Aspirin,Increased bleeding risk,"Nausea, stomach pain",Acetaminophen,High
+Lisinopril,Spironolactone,Hyperkalemia (high potassium),"Fatigue, confusion",Amlodipine,High
+Warfarin,Amoxicillin,Decreased efficacy of Warfarin,"Bruising, blood clots",Enoxaparin,Moderate
+Simvastatin,Grapefruit Juice,Increased statin levels,"Muscle pain, liver damage",Rosuvastatin (no interaction),High
+Metformin,Cimetidine,Increased metformin levels,"Nausea, stomach pain",Famotidine,Moderate
+Prednisone,Ibuprofen,Gastrointestinal bleeding risk,"Stomach ulcers, GI bleeding",Acetaminophen,High
+Sertraline,St. John’s Wort,Serotonin syndrome risk,"Agitation, sweating",No herbal alternatives,High
+Ciprofloxacin,Theophylline,Increased theophylline levels,"Nausea, vomiting",Levofloxacin,Moderate
+Digoxin,Furosemide,Increased digoxin toxicity,"Confusion, vision changes",ACE inhibitors,High
+Enalapril,Potassium Supplements,Hyperkalemia,"Irregular heartbeats, weakness",No supplementation,High
+Aspirin,Ginkgo Biloba,Increased bleeding risk,"Easy bruising, internal bleeding",Fish oil (lower dose),Moderate
+Clopidogrel,Omeprazole,Reduced clopidogrel efficacy,Blood clots,Pantoprazole,Moderate
+Fluoxetine,Tramadol,Serotonin syndrome,"Agitation, hallucinations",Bupropion,High
+Amiodarone,Warfarin,Increased bleeding risk,"Easy bruising, internal bleeding",Beta-blockers,High
+Rifampin,Oral Contraceptives,Decreased efficacy of contraceptives,Unplanned pregnancy risk,Barrier methods,High
+Lithium,NSAIDs,Increased lithium levels,"Tremors, nausea",Acetaminophen,High
+Phenytoin,Doxycycline,Decreased antibiotic efficacy,Infections,Amoxicillin,Moderate
+Metoprolol,Verapamil,Bradycardia (low heart rate),"Dizziness, fatigue",Amlodipine,High
+Olanzapine,Benzodiazepines,Increased sedation,"Drowsiness, confusion",SSRIs,Moderate
+Sildenafil,Nitrates,Severe hypotension,"Dizziness, fainting",None,Very High
+Ibuprofen,Aspirin,Increased bleeding risk,"Nausea, stomach pain",Acetaminophen,High
+Lisinopril,Spironolactone,Hyperkalemia (high potassium),"Fatigue, confusion",Amlodipine,High
+Warfarin,Amoxicillin,Decreased efficacy of Warfarin,"Bruising, blood clots",Enoxaparin,Moderate
+Simvastatin,Grapefruit Juice,Increased statin levels,"Muscle pain, liver damage",Rosuvastatin (no interaction),High
+Metformin,Cimetidine,Increased metformin levels,"Nausea, stomach pain",Famotidine,Moderate
+Prednisone,Ibuprofen,Gastrointestinal bleeding risk,"Stomach ulcers, GI bleeding",Acetaminophen,High
+Sertraline,St. John’s Wort,Serotonin syndrome risk,"Agitation, sweating",No herbal alternatives,High
+Ciprofloxacin,Theophylline,Increased theophylline levels,"Nausea, vomiting",Levofloxacin,Moderate
+Digoxin,Furosemide,Increased digoxin toxicity,"Confusion, vision changes",ACE inhibitors,High
+Enalapril,Potassium Supplements,Hyperkalemia,"Irregular heartbeats, weakness",No supplementation,High
+Aspirin,Ginkgo Biloba,Increased bleeding risk,"Easy bruising, internal bleeding",Fish oil (lower dose),Moderate
+Clopidogrel,Omeprazole,Reduced clopidogrel efficacy,Blood clots,Pantoprazole,Moderate
+Fluoxetine,Tramadol,Serotonin syndrome,"Agitation, hallucinations",Bupropion,High
+Amiodarone,Warfarin,Increased bleeding risk,"Easy bruising, internal bleeding",Beta-blockers,High
+Rifampin,Oral Contraceptives,Decreased efficacy of contraceptives,Unplanned pregnancy risk,Barrier methods,High
+Lithium,NSAIDs,Increased lithium levels,"Tremors, nausea",Acetaminophen,High
+Phenytoin,Doxycycline,Decreased antibiotic efficacy,Infections,Amoxicillin,Moderate
+Metoprolol,Verapamil,Bradycardia (low heart rate),"Dizziness, fatigue",Amlodipine,High
+Olanzapine,Benzodiazepines,Increased sedation,"Drowsiness, confusion",SSRIs,Moderate
+Sildenafil,Nitrates,Severe hypotension,"Dizziness, fainting",None,Very High
+Ibuprofen,Aspirin,Increased bleeding risk,"Nausea, stomach pain",Acetaminophen,High
+Lisinopril,Spironolactone,Hyperkalemia (high potassium),"Fatigue, confusion",Amlodipine,High
+Warfarin,Amoxicillin,Decreased efficacy of Warfarin,"Bruising, blood clots",Enoxaparin,Moderate
+Simvastatin,Grapefruit Juice,Increased statin levels,"Muscle pain, liver damage",Rosuvastatin (no interaction),High
+Metformin,Cimetidine,Increased metformin levels,"Nausea, stomach pain",Famotidine,Moderate
+Prednisone,Ibuprofen,Gastrointestinal bleeding risk,"Stomach ulcers, GI bleeding",Acetaminophen,High
+Sertraline,St. John’s Wort,Serotonin syndrome risk,"Agitation, sweating",No herbal alternatives,High
+Ciprofloxacin,Theophylline,Increased theophylline levels,"Nausea, vomiting",Levofloxacin,Moderate
+Digoxin,Furosemide,Increased digoxin toxicity,"Confusion, vision changes",ACE inhibitors,High
+Enalapril,Potassium Supplements,Hyperkalemia,"Irregular heartbeats, weakness",No supplementation,High
+Aspirin,Ginkgo Biloba,Increased bleeding risk,"Easy bruising, internal bleeding",Fish oil (lower dose),Moderate
+Clopidogrel,Omeprazole,Reduced clopidogrel efficacy,Blood clots,Pantoprazole,Moderate
+Fluoxetine,Tramadol,Serotonin syndrome,"Agitation, hallucinations",Bupropion,High
+Amiodarone,Warfarin,Increased bleeding risk,"Easy bruising, internal bleeding",Beta-blockers,High
+Rifampin,Oral Contraceptives,Decreased efficacy of contraceptives,Unplanned pregnancy risk,Barrier methods,High
+Lithium,NSAIDs,Increased lithium levels,"Tremors, nausea",Acetaminophen,High
+Phenytoin,Doxycycline,Decreased antibiotic efficacy,Infections,Amoxicillin,Moderate
+Metoprolol,Verapamil,Bradycardia (low heart rate),"Dizziness, fatigue",Amlodipine,High
+Olanzapine,Benzodiazepines,Increased sedation,"Drowsiness, confusion",SSRIs,Moderate
+Sildenafil,Nitrates,Severe hypotension,"Dizziness, fainting",None,Very High
+Ibuprofen,Aspirin,Increased bleeding risk,"Nausea, stomach pain",Acetaminophen,High
+Lisinopril,Spironolactone,Hyperkalemia (high potassium),"Fatigue, confusion",Amlodipine,High
+Warfarin,Amoxicillin,Decreased efficacy of Warfarin,"Bruising, blood clots",Enoxaparin,Moderate
+Simvastatin,Grapefruit Juice,Increased statin levels,"Muscle pain, liver damage",Rosuvastatin (no interaction),High
+Metformin,Cimetidine,Increased metformin levels,"Nausea, stomach pain",Famotidine,Moderate
+Prednisone,Ibuprofen,Gastrointestinal bleeding risk,"Stomach ulcers, GI bleeding",Acetaminophen,High
+Sertraline,St. John’s Wort,Serotonin syndrome risk,"Agitation, sweating",No herbal alternatives,High
+Ciprofloxacin,Theophylline,Increased theophylline levels,"Nausea, vomiting",Levofloxacin,Moderate
+Digoxin,Furosemide,Increased digoxin toxicity,"Confusion, vision changes",ACE inhibitors,High
+Enalapril,Potassium Supplements,Hyperkalemia,"Irregular heartbeats, weakness",No supplementation,High
+Aspirin,Ginkgo Biloba,Increased bleeding risk,"Easy bruising, internal bleeding",Fish oil (lower dose),Moderate
+Clopidogrel,Omeprazole,Reduced clopidogrel efficacy,Blood clots,Pantoprazole,Moderate
+Fluoxetine,Tramadol,Serotonin syndrome,"Agitation, hallucinations",Bupropion,High
+Amiodarone,Warfarin,Increased bleeding risk,"Easy bruising, internal bleeding",Beta-blockers,High
+Rifampin,Oral Contraceptives,Decreased efficacy of contraceptives,Unplanned pregnancy risk,Barrier methods,High
+Lithium,NSAIDs,Increased lithium levels,"Tremors, nausea",Acetaminophen,High
+Phenytoin,Doxycycline,Decreased antibiotic efficacy,Infections,Amoxicillin,Moderate
+Metoprolol,Verapamil,Bradycardia (low heart rate),"Dizziness, fatigue",Amlodipine,High
+Olanzapine,Benzodiazepines,Increased sedation,"Drowsiness, confusion",SSRIs,Moderate
+Sildenafil,Nitrates,Severe hypotension,"Dizziness, fainting",None,Very High
+Ibuprofen,Aspirin,Increased bleeding risk,"Nausea, stomach pain",Acetaminophen,High
+Lisinopril,Spironolactone,Hyperkalemia (high potassium),"Fatigue, confusion",Amlodipine,High
+Warfarin,Amoxicillin,Decreased efficacy of Warfarin,"Bruising, blood clots",Enoxaparin,Moderate
+Simvastatin,Grapefruit Juice,Increased statin levels,"Muscle pain, liver damage",Rosuvastatin (no interaction),High
+Metformin,Cimetidine,Increased metformin levels,"Nausea, stomach pain",Famotidine,Moderate
+Prednisone,Ibuprofen,Gastrointestinal bleeding risk,"Stomach ulcers, GI bleeding",Acetaminophen,High
+Sertraline,St. John’s Wort,Serotonin syndrome risk,"Agitation, sweating",No herbal alternatives,High
+Ciprofloxacin,Theophylline,Increased theophylline levels,"Nausea, vomiting",Levofloxacin,Moderate
+Digoxin,Furosemide,Increased digoxin toxicity,"Confusion, vision changes",ACE inhibitors,High
+Enalapril,Potassium Supplements,Hyperkalemia,"Irregular heartbeats, weakness",No supplementation,High
+Aspirin,Ginkgo Biloba,Increased bleeding risk,"Easy bruising, internal bleeding",Fish oil (lower dose),Moderate
+Clopidogrel,Omeprazole,Reduced clopidogrel efficacy,Blood clots,Pantoprazole,Moderate
+Fluoxetine,Tramadol,Serotonin syndrome,"Agitation, hallucinations",Bupropion,High
+Amiodarone,Warfarin,Increased bleeding risk,"Easy bruising, internal bleeding",Beta-blockers,High
+Rifampin,Oral Contraceptives,Decreased efficacy of contraceptives,Unplanned pregnancy risk,Barrier methods,High
+Lithium,NSAIDs,Increased lithium levels,"Tremors, nausea",Acetaminophen,High
+Phenytoin,Doxycycline,Decreased antibiotic efficacy,Infections,Amoxicillin,Moderate
+Metoprolol,Verapamil,Bradycardia (low heart rate),"Dizziness, fatigue",Amlodipine,High
+Olanzapine,Benzodiazepines,Increased sedation,"Drowsiness, confusion",SSRIs,Moderate
+Sildenafil,Nitrates,Severe hypotension,"Dizziness, fainting",None,Very High
+Ibuprofen,Aspirin,Increased bleeding risk,"Nausea, stomach pain",Acetaminophen,High
+Lisinopril,Spironolactone,Hyperkalemia (high potassium),"Fatigue, confusion",Amlodipine,High
+Warfarin,Amoxicillin,Decreased efficacy of Warfarin,"Bruising, blood clots",Enoxaparin,Moderate
+Simvastatin,Grapefruit Juice,Increased statin levels,"Muscle pain, liver damage",Rosuvastatin (no interaction),High
+Metformin,Cimetidine,Increased metformin levels,"Nausea, stomach pain",Famotidine,Moderate
+Prednisone,Ibuprofen,Gastrointestinal bleeding risk,"Stomach ulcers, GI bleeding",Acetaminophen,High
+Sertraline,St. John’s Wort,Serotonin syndrome risk,"Agitation, sweating",No herbal alternatives,High
+Ciprofloxacin,Theophylline,Increased theophylline levels,"Nausea, vomiting",Levofloxacin,Moderate
+Digoxin,Furosemide,Increased digoxin toxicity,"Confusion, vision changes",ACE inhibitors,High
+Enalapril,Potassium Supplements,Hyperkalemia,"Irregular heartbeats, weakness",No supplementation,High
+Aspirin,Ginkgo Biloba,Increased bleeding risk,"Easy bruising, internal bleeding",Fish oil (lower dose),Moderate
+Clopidogrel,Omeprazole,Reduced clopidogrel efficacy,Blood clots,Pantoprazole,Moderate
+Fluoxetine,Tramadol,Serotonin syndrome,"Agitation, hallucinations",Bupropion,High
+Amiodarone,Warfarin,Increased bleeding risk,"Easy bruising, internal bleeding",Beta-blockers,High
+Rifampin,Oral Contraceptives,Decreased efficacy of contraceptives,Unplanned pregnancy risk,Barrier methods,High
+Lithium,NSAIDs,Increased lithium levels,"Tremors, nausea",Acetaminophen,High
+Phenytoin,Doxycycline,Decreased antibiotic efficacy,Infections,Amoxicillin,Moderate
+Metoprolol,Verapamil,Bradycardia (low heart rate),"Dizziness, fatigue",Amlodipine,High
+Olanzapine,Benzodiazepines,Increased sedation,"Drowsiness, confusion",SSRIs,Moderate
+Sildenafil,Nitrates,Severe hypotension,"Dizziness, fainting",None,Very High
+Ibuprofen,Aspirin,Increased bleeding risk,"Nausea, stomach pain",Acetaminophen,High
+Lisinopril,Spironolactone,Hyperkalemia (high potassium),"Fatigue, confusion",Amlodipine,High
+Warfarin,Amoxicillin,Decreased efficacy of Warfarin,"Bruising, blood clots",Enoxaparin,Moderate
+Simvastatin,Grapefruit Juice,Increased statin levels,"Muscle pain, liver damage",Rosuvastatin (no interaction),High
+Metformin,Cimetidine,Increased metformin levels,"Nausea, stomach pain",Famotidine,Moderate
+Prednisone,Ibuprofen,Gastrointestinal bleeding risk,"Stomach ulcers, GI bleeding",Acetaminophen,High
+Sertraline,St. John’s Wort,Serotonin syndrome risk,"Agitation, sweating",No herbal alternatives,High
+Ciprofloxacin,Theophylline,Increased theophylline levels,"Nausea, vomiting",Levofloxacin,Moderate
+Digoxin,Furosemide,Increased digoxin toxicity,"Confusion, vision changes",ACE inhibitors,High
+Enalapril,Potassium Supplements,Hyperkalemia,"Irregular heartbeats, weakness",No supplementation,High
+Aspirin,Ginkgo Biloba,Increased bleeding risk,"Easy bruising, internal bleeding",Fish oil (lower dose),Moderate
+Clopidogrel,Omeprazole,Reduced clopidogrel efficacy,Blood clots,Pantoprazole,Moderate
+Fluoxetine,Tramadol,Serotonin syndrome,"Agitation, hallucinations",Bupropion,High
+Amiodarone,Warfarin,Increased bleeding risk,"Easy bruising, internal bleeding",Beta-blockers,High
+Rifampin,Oral Contraceptives,Decreased efficacy of contraceptives,Unplanned pregnancy risk,Barrier methods,High
+Lithium,NSAIDs,Increased lithium levels,"Tremors, nausea",Acetaminophen,High
+Phenytoin,Doxycycline,Decreased antibiotic efficacy,Infections,Amoxicillin,Moderate
+Metoprolol,Verapamil,Bradycardia (low heart rate),"Dizziness, fatigue",Amlodipine,High
+Olanzapine,Benzodiazepines,Increased sedation,"Drowsiness, confusion",SSRIs,Moderate
+Sildenafil,Nitrates,Severe hypotension,"Dizziness, fainting",None,Very High
+Ibuprofen,Aspirin,Increased bleeding risk,"Nausea, stomach pain",Acetaminophen,High
+Lisinopril,Spironolactone,Hyperkalemia (high potassium),"Fatigue, confusion",Amlodipine,High
+Warfarin,Amoxicillin,Decreased efficacy of Warfarin,"Bruising, blood clots",Enoxaparin,Moderate
+Simvastatin,Grapefruit Juice,Increased statin levels,"Muscle pain, liver damage",Rosuvastatin (no interaction),High
+Metformin,Cimetidine,Increased metformin levels,"Nausea, stomach pain",Famotidine,Moderate
+Prednisone,Ibuprofen,Gastrointestinal bleeding risk,"Stomach ulcers, GI bleeding",Acetaminophen,High
+Sertraline,St. John’s Wort,Serotonin syndrome risk,"Agitation, sweating",No herbal alternatives,High
+Ciprofloxacin,Theophylline,Increased theophylline levels,"Nausea, vomiting",Levofloxacin,Moderate
+Digoxin,Furosemide,Increased digoxin toxicity,"Confusion, vision changes",ACE inhibitors,High
+Enalapril,Potassium Supplements,Hyperkalemia,"Irregular heartbeats, weakness",No supplementation,High
+Aspirin,Ginkgo Biloba,Increased bleeding risk,"Easy bruising, internal bleeding",Fish oil (lower dose),Moderate
+Clopidogrel,Omeprazole,Reduced clopidogrel efficacy,Blood clots,Pantoprazole,Moderate
+Fluoxetine,Tramadol,Serotonin syndrome,"Agitation, hallucinations",Bupropion,High
+Amiodarone,Warfarin,Increased bleeding risk,"Easy bruising, internal bleeding",Beta-blockers,High
+Rifampin,Oral Contraceptives,Decreased efficacy of contraceptives,Unplanned pregnancy risk,Barrier methods,High
+Lithium,NSAIDs,Increased lithium levels,"Tremors, nausea",Acetaminophen,High
+Phenytoin,Doxycycline,Decreased antibiotic efficacy,Infections,Amoxicillin,Moderate
+Metoprolol,Verapamil,Bradycardia (low heart rate),"Dizziness, fatigue",Amlodipine,High
+Olanzapine,Benzodiazepines,Increased sedation,"Drowsiness, confusion",SSRIs,Moderate
+Sildenafil,Nitrates,Severe hypotension,"Dizziness, fainting",None,Very High
+Ibuprofen,Aspirin,Increased bleeding risk,"Nausea, stomach pain",Acetaminophen,High
+Lisinopril,Spironolactone,Hyperkalemia (high potassium),"Fatigue, confusion",Amlodipine,High
+Warfarin,Amoxicillin,Decreased efficacy of Warfarin,"Bruising, blood clots",Enoxaparin,Moderate
+Simvastatin,Grapefruit Juice,Increased statin levels,"Muscle pain, liver damage",Rosuvastatin (no interaction),High
+Metformin,Cimetidine,Increased metformin levels,"Nausea, stomach pain",Famotidine,Moderate
+Prednisone,Ibuprofen,Gastrointestinal bleeding risk,"Stomach ulcers, GI bleeding",Acetaminophen,High
+Sertraline,St. John’s Wort,Serotonin syndrome risk,"Agitation, sweating",No herbal alternatives,High
+Ciprofloxacin,Theophylline,Increased theophylline levels,"Nausea, vomiting",Levofloxacin,Moderate
+Digoxin,Furosemide,Increased digoxin toxicity,"Confusion, vision changes",ACE inhibitors,High
+Enalapril,Potassium Supplements,Hyperkalemia,"Irregular heartbeats, weakness",No supplementation,High
+Aspirin,Ginkgo Biloba,Increased bleeding risk,"Easy bruising, internal bleeding",Fish oil (lower dose),Moderate
+Clopidogrel,Omeprazole,Reduced clopidogrel efficacy,Blood clots,Pantoprazole,Moderate
+Fluoxetine,Tramadol,Serotonin syndrome,"Agitation, hallucinations",Bupropion,High
+Amiodarone,Warfarin,Increased bleeding risk,"Easy bruising, internal bleeding",Beta-blockers,High
+Rifampin,Oral Contraceptives,Decreased efficacy of contraceptives,Unplanned pregnancy risk,Barrier methods,High
+Lithium,NSAIDs,Increased lithium levels,"Tremors, nausea",Acetaminophen,High
+Phenytoin,Doxycycline,Decreased antibiotic efficacy,Infections,Amoxicillin,Moderate
+Metoprolol,Verapamil,Bradycardia (low heart rate),"Dizziness, fatigue",Amlodipine,High
+Olanzapine,Benzodiazepines,Increased sedation,"Drowsiness, confusion",SSRIs,Moderate
+Sildenafil,Nitrates,Severe hypotension,"Dizziness, fainting",None,Very High
+Ibuprofen,Aspirin,Increased bleeding risk,"Nausea, stomach pain",Acetaminophen,High
+Lisinopril,Spironolactone,Hyperkalemia (high potassium),"Fatigue, confusion",Amlodipine,High
+Warfarin,Amoxicillin,Decreased efficacy of Warfarin,"Bruising, blood clots",Enoxaparin,Moderate
+Simvastatin,Grapefruit Juice,Increased statin levels,"Muscle pain, liver damage",Rosuvastatin (no interaction),High
+Metformin,Cimetidine,Increased metformin levels,"Nausea, stomach pain",Famotidine,Moderate
+Prednisone,Ibuprofen,Gastrointestinal bleeding risk,"Stomach ulcers, GI bleeding",Acetaminophen,High
+Sertraline,St. John’s Wort,Serotonin syndrome risk,"Agitation, sweating",No herbal alternatives,High
+Ciprofloxacin,Theophylline,Increased theophylline levels,"Nausea, vomiting",Levofloxacin,Moderate
+Digoxin,Furosemide,Increased digoxin toxicity,"Confusion, vision changes",ACE inhibitors,High
+Enalapril,Potassium Supplements,Hyperkalemia,"Irregular heartbeats, weakness",No supplementation,High
+Aspirin,Ginkgo Biloba,Increased bleeding risk,"Easy bruising, internal bleeding",Fish oil (lower dose),Moderate
+Clopidogrel,Omeprazole,Reduced clopidogrel efficacy,Blood clots,Pantoprazole,Moderate
+Fluoxetine,Tramadol,Serotonin syndrome,"Agitation, hallucinations",Bupropion,High
+Amiodarone,Warfarin,Increased bleeding risk,"Easy bruising, internal bleeding",Beta-blockers,High
+Rifampin,Oral Contraceptives,Decreased efficacy of contraceptives,Unplanned pregnancy risk,Barrier methods,High
+Lithium,NSAIDs,Increased lithium levels,"Tremors, nausea",Acetaminophen,High
+Phenytoin,Doxycycline,Decreased antibiotic efficacy,Infections,Amoxicillin,Moderate
+Metoprolol,Verapamil,Bradycardia (low heart rate),"Dizziness, fatigue",Amlodipine,High
+Olanzapine,Benzodiazepines,Increased sedation,"Drowsiness, confusion",SSRIs,Moderate
+Sildenafil,Nitrates,Severe hypotension,"Dizziness, fainting",None,Very High
+Ibuprofen,Aspirin,Increased bleeding risk,"Nausea, stomach pain",Acetaminophen,High
+Lisinopril,Spironolactone,Hyperkalemia (high potassium),"Fatigue, confusion",Amlodipine,High
+Warfarin,Amoxicillin,Decreased efficacy of Warfarin,"Bruising, blood clots",Enoxaparin,Moderate
+Simvastatin,Grapefruit Juice,Increased statin levels,"Muscle pain, liver damage",Rosuvastatin (no interaction),High
+Metformin,Cimetidine,Increased metformin levels,"Nausea, stomach pain",Famotidine,Moderate
+Prednisone,Ibuprofen,Gastrointestinal bleeding risk,"Stomach ulcers, GI bleeding",Acetaminophen,High
+Sertraline,St. John’s Wort,Serotonin syndrome risk,"Agitation, sweating",No herbal alternatives,High
+Ciprofloxacin,Theophylline,Increased theophylline levels,"Nausea, vomiting",Levofloxacin,Moderate
+Digoxin,Furosemide,Increased digoxin toxicity,"Confusion, vision changes",ACE inhibitors,High
+Enalapril,Potassium Supplements,Hyperkalemia,"Irregular heartbeats, weakness",No supplementation,High
+Aspirin,Ginkgo Biloba,Increased bleeding risk,"Easy bruising, internal bleeding",Fish oil (lower dose),Moderate
+Clopidogrel,Omeprazole,Reduced clopidogrel efficacy,Blood clots,Pantoprazole,Moderate
+Fluoxetine,Tramadol,Serotonin syndrome,"Agitation, hallucinations",Bupropion,High
+Amiodarone,Warfarin,Increased bleeding risk,"Easy bruising, internal bleeding",Beta-blockers,High
+Rifampin,Oral Contraceptives,Decreased efficacy of contraceptives,Unplanned pregnancy risk,Barrier methods,High
+Lithium,NSAIDs,Increased lithium levels,"Tremors, nausea",Acetaminophen,High
+Phenytoin,Doxycycline,Decreased antibiotic efficacy,Infections,Amoxicillin,Moderate
+Metoprolol,Verapamil,Bradycardia (low heart rate),"Dizziness, fatigue",Amlodipine,High
+Olanzapine,Benzodiazepines,Increased sedation,"Drowsiness, confusion",SSRIs,Moderate
+Sildenafil,Nitrates,Severe hypotension,"Dizziness, fainting",None,Very High
+Ibuprofen,Aspirin,Increased bleeding risk,"Nausea, stomach pain",Acetaminophen,High
+Lisinopril,Spironolactone,Hyperkalemia (high potassium),"Fatigue, confusion",Amlodipine,High
+Warfarin,Amoxicillin,Decreased efficacy of Warfarin,"Bruising, blood clots",Enoxaparin,Moderate
+Simvastatin,Grapefruit Juice,Increased statin levels,"Muscle pain, liver damage",Rosuvastatin (no interaction),High
+Metformin,Cimetidine,Increased metformin levels,"Nausea, stomach pain",Famotidine,Moderate
+Prednisone,Ibuprofen,Gastrointestinal bleeding risk,"Stomach ulcers, GI bleeding",Acetaminophen,High
+Sertraline,St. John’s Wort,Serotonin syndrome risk,"Agitation, sweating",No herbal alternatives,High
+Ciprofloxacin,Theophylline,Increased theophylline levels,"Nausea, vomiting",Levofloxacin,Moderate
+Digoxin,Furosemide,Increased digoxin toxicity,"Confusion, vision changes",ACE inhibitors,High
+Enalapril,Potassium Supplements,Hyperkalemia,"Irregular heartbeats, weakness",No supplementation,High
+Aspirin,Ginkgo Biloba,Increased bleeding risk,"Easy bruising, internal bleeding",Fish oil (lower dose),Moderate
+Clopidogrel,Omeprazole,Reduced clopidogrel efficacy,Blood clots,Pantoprazole,Moderate
+Fluoxetine,Tramadol,Serotonin syndrome,"Agitation, hallucinations",Bupropion,High
+Amiodarone,Warfarin,Increased bleeding risk,"Easy bruising, internal bleeding",Beta-blockers,High
+Rifampin,Oral Contraceptives,Decreased efficacy of contraceptives,Unplanned pregnancy risk,Barrier methods,High
+Lithium,NSAIDs,Increased lithium levels,"Tremors, nausea",Acetaminophen,High
+Phenytoin,Doxycycline,Decreased antibiotic efficacy,Infections,Amoxicillin,Moderate
+Metoprolol,Verapamil,Bradycardia (low heart rate),"Dizziness, fatigue",Amlodipine,High
+Olanzapine,Benzodiazepines,Increased sedation,"Drowsiness, confusion",SSRIs,Moderate
+Sildenafil,Nitrates,Severe hypotension,"Dizziness, fainting",None,Very High
+Ibuprofen,Aspirin,Increased bleeding risk,"Nausea, stomach pain",Acetaminophen,High
+Lisinopril,Spironolactone,Hyperkalemia (high potassium),"Fatigue, confusion",Amlodipine,High
+Warfarin,Amoxicillin,Decreased efficacy of Warfarin,"Bruising, blood clots",Enoxaparin,Moderate
+Simvastatin,Grapefruit Juice,Increased statin levels,"Muscle pain, liver damage",Rosuvastatin (no interaction),High
+Metformin,Cimetidine,Increased metformin levels,"Nausea, stomach pain",Famotidine,Moderate
+Prednisone,Ibuprofen,Gastrointestinal bleeding risk,"Stomach ulcers, GI bleeding",Acetaminophen,High
+Sertraline,St. John’s Wort,Serotonin syndrome risk,"Agitation, sweating",No herbal alternatives,High
+Ciprofloxacin,Theophylline,Increased theophylline levels,"Nausea, vomiting",Levofloxacin,Moderate
+Digoxin,Furosemide,Increased digoxin toxicity,"Confusion, vision changes",ACE inhibitors,High
+Enalapril,Potassium Supplements,Hyperkalemia,"Irregular heartbeats, weakness",No supplementation,High
+Aspirin,Ginkgo Biloba,Increased bleeding risk,"Easy bruising, internal bleeding",Fish oil (lower dose),Moderate
+Clopidogrel,Omeprazole,Reduced clopidogrel efficacy,Blood clots,Pantoprazole,Moderate
+Fluoxetine,Tramadol,Serotonin syndrome,"Agitation, hallucinations",Bupropion,High
+Amiodarone,Warfarin,Increased bleeding risk,"Easy bruising, internal bleeding",Beta-blockers,High
+Rifampin,Oral Contraceptives,Decreased efficacy of contraceptives,Unplanned pregnancy risk,Barrier methods,High
+Lithium,NSAIDs,Increased lithium levels,"Tremors, nausea",Acetaminophen,High
+Phenytoin,Doxycycline,Decreased antibiotic efficacy,Infections,Amoxicillin,Moderate
+Metoprolol,Verapamil,Bradycardia (low heart rate),"Dizziness, fatigue",Amlodipine,High
+Olanzapine,Benzodiazepines,Increased sedation,"Drowsiness, confusion",SSRIs,Moderate
+Sildenafil,Nitrates,Severe hypotension,"Dizziness, fainting",None,Very High
+Ibuprofen,Aspirin,Increased bleeding risk,"Nausea, stomach pain",Acetaminophen,High
+Lisinopril,Spironolactone,Hyperkalemia (high potassium),"Fatigue, confusion",Amlodipine,High
+Warfarin,Amoxicillin,Decreased efficacy of Warfarin,"Bruising, blood clots",Enoxaparin,Moderate
+Simvastatin,Grapefruit Juice,Increased statin levels,"Muscle pain, liver damage",Rosuvastatin (no interaction),High
+Metformin,Cimetidine,Increased metformin levels,"Nausea, stomach pain",Famotidine,Moderate
+Prednisone,Ibuprofen,Gastrointestinal bleeding risk,"Stomach ulcers, GI bleeding",Acetaminophen,High
+Sertraline,St. John’s Wort,Serotonin syndrome risk,"Agitation, sweating",No herbal alternatives,High
+Ciprofloxacin,Theophylline,Increased theophylline levels,"Nausea, vomiting",Levofloxacin,Moderate
+Digoxin,Furosemide,Increased digoxin toxicity,"Confusion, vision changes",ACE inhibitors,High
+Enalapril,Potassium Supplements,Hyperkalemia,"Irregular heartbeats, weakness",No supplementation,High
+Aspirin,Ginkgo Biloba,Increased bleeding risk,"Easy bruising, internal bleeding",Fish oil (lower dose),Moderate
+Clopidogrel,Omeprazole,Reduced clopidogrel efficacy,Blood clots,Pantoprazole,Moderate
+Fluoxetine,Tramadol,Serotonin syndrome,"Agitation, hallucinations",Bupropion,High
+Amiodarone,Warfarin,Increased bleeding risk,"Easy bruising, internal bleeding",Beta-blockers,High
+Rifampin,Oral Contraceptives,Decreased efficacy of contraceptives,Unplanned pregnancy risk,Barrier methods,High
+Lithium,NSAIDs,Increased lithium levels,"Tremors, nausea",Acetaminophen,High
+Phenytoin,Doxycycline,Decreased antibiotic efficacy,Infections,Amoxicillin,Moderate
+Metoprolol,Verapamil,Bradycardia (low heart rate),"Dizziness, fatigue",Amlodipine,High
+Olanzapine,Benzodiazepines,Increased sedation,"Drowsiness, confusion",SSRIs,Moderate
+Sildenafil,Nitrates,Severe hypotension,"Dizziness, fainting",None,Very High
+Ibuprofen,Aspirin,Increased bleeding risk,"Nausea, stomach pain",Acetaminophen,High
+Lisinopril,Spironolactone,Hyperkalemia (high potassium),"Fatigue, confusion",Amlodipine,High
+Warfarin,Amoxicillin,Decreased efficacy of Warfarin,"Bruising, blood clots",Enoxaparin,Moderate
+Simvastatin,Grapefruit Juice,Increased statin levels,"Muscle pain, liver damage",Rosuvastatin (no interaction),High
+Metformin,Cimetidine,Increased metformin levels,"Nausea, stomach pain",Famotidine,Moderate
+Prednisone,Ibuprofen,Gastrointestinal bleeding risk,"Stomach ulcers, GI bleeding",Acetaminophen,High
+Sertraline,St. John’s Wort,Serotonin syndrome risk,"Agitation, sweating",No herbal alternatives,High
+Ciprofloxacin,Theophylline,Increased theophylline levels,"Nausea, vomiting",Levofloxacin,Moderate
+Digoxin,Furosemide,Increased digoxin toxicity,"Confusion, vision changes",ACE inhibitors,High
+Enalapril,Potassium Supplements,Hyperkalemia,"Irregular heartbeats, weakness",No supplementation,High
+Aspirin,Ginkgo Biloba,Increased bleeding risk,"Easy bruising, internal bleeding",Fish oil (lower dose),Moderate
+Clopidogrel,Omeprazole,Reduced clopidogrel efficacy,Blood clots,Pantoprazole,Moderate
+Fluoxetine,Tramadol,Serotonin syndrome,"Agitation, hallucinations",Bupropion,High
+Amiodarone,Warfarin,Increased bleeding risk,"Easy bruising, internal bleeding",Beta-blockers,High
+Rifampin,Oral Contraceptives,Decreased efficacy of contraceptives,Unplanned pregnancy risk,Barrier methods,High
+Lithium,NSAIDs,Increased lithium levels,"Tremors, nausea",Acetaminophen,High
+Phenytoin,Doxycycline,Decreased antibiotic efficacy,Infections,Amoxicillin,Moderate
+Metoprolol,Verapamil,Bradycardia (low heart rate),"Dizziness, fatigue",Amlodipine,High
+Olanzapine,Benzodiazepines,Increased sedation,"Drowsiness, confusion",SSRIs,Moderate
+Sildenafil,Nitrates,Severe hypotension,"Dizziness, fainting",None,Very High
+Ibuprofen,Aspirin,Increased bleeding risk,"Nausea, stomach pain",Acetaminophen,High
+Lisinopril,Spironolactone,Hyperkalemia (high potassium),"Fatigue, confusion",Amlodipine,High
+Warfarin,Amoxicillin,Decreased efficacy of Warfarin,"Bruising, blood clots",Enoxaparin,Moderate
+Simvastatin,Grapefruit Juice,Increased statin levels,"Muscle pain, liver damage",Rosuvastatin (no interaction),High
+Metformin,Cimetidine,Increased metformin levels,"Nausea, stomach pain",Famotidine,Moderate
+Prednisone,Ibuprofen,Gastrointestinal bleeding risk,"Stomach ulcers, GI bleeding",Acetaminophen,High
+Sertraline,St. John’s Wort,Serotonin syndrome risk,"Agitation, sweating",No herbal alternatives,High
+Ciprofloxacin,Theophylline,Increased theophylline levels,"Nausea, vomiting",Levofloxacin,Moderate
+Digoxin,Furosemide,Increased digoxin toxicity,"Confusion, vision changes",ACE inhibitors,High
+Enalapril,Potassium Supplements,Hyperkalemia,"Irregular heartbeats, weakness",No supplementation,High
+Aspirin,Ginkgo Biloba,Increased bleeding risk,"Easy bruising, internal bleeding",Fish oil (lower dose),Moderate
+Clopidogrel,Omeprazole,Reduced clopidogrel efficacy,Blood clots,Pantoprazole,Moderate
+Fluoxetine,Tramadol,Serotonin syndrome,"Agitation, hallucinations",Bupropion,High
+Amiodarone,Warfarin,Increased bleeding risk,"Easy bruising, internal bleeding",Beta-blockers,High
+Rifampin,Oral Contraceptives,Decreased efficacy of contraceptives,Unplanned pregnancy risk,Barrier methods,High
+Lithium,NSAIDs,Increased lithium levels,"Tremors, nausea",Acetaminophen,High
+Phenytoin,Doxycycline,Decreased antibiotic efficacy,Infections,Amoxicillin,Moderate
+Metoprolol,Verapamil,Bradycardia (low heart rate),"Dizziness, fatigue",Amlodipine,High
+Olanzapine,Benzodiazepines,Increased sedation,"Drowsiness, confusion",SSRIs,Moderate
+Sildenafil,Nitrates,Severe hypotension,"Dizziness, fainting",None,Very High
+Ibuprofen,Aspirin,Increased bleeding risk,"Nausea, stomach pain",Acetaminophen,High
+Lisinopril,Spironolactone,Hyperkalemia (high potassium),"Fatigue, confusion",Amlodipine,High
+Warfarin,Amoxicillin,Decreased efficacy of Warfarin,"Bruising, blood clots",Enoxaparin,Moderate
+Simvastatin,Grapefruit Juice,Increased statin levels,"Muscle pain, liver damage",Rosuvastatin (no interaction),High
+Metformin,Cimetidine,Increased metformin levels,"Nausea, stomach pain",Famotidine,Moderate
+Prednisone,Ibuprofen,Gastrointestinal bleeding risk,"Stomach ulcers, GI bleeding",Acetaminophen,High
+Sertraline,St. John’s Wort,Serotonin syndrome risk,"Agitation, sweating",No herbal alternatives,High
+Ciprofloxacin,Theophylline,Increased theophylline levels,"Nausea, vomiting",Levofloxacin,Moderate
+Digoxin,Furosemide,Increased digoxin toxicity,"Confusion, vision changes",ACE inhibitors,High
+Enalapril,Potassium Supplements,Hyperkalemia,"Irregular heartbeats, weakness",No supplementation,High
+Aspirin,Ginkgo Biloba,Increased bleeding risk,"Easy bruising, internal bleeding",Fish oil (lower dose),Moderate
+Clopidogrel,Omeprazole,Reduced clopidogrel efficacy,Blood clots,Pantoprazole,Moderate
+Fluoxetine,Tramadol,Serotonin syndrome,"Agitation, hallucinations",Bupropion,High
+Amiodarone,Warfarin,Increased bleeding risk,"Easy bruising, internal bleeding",Beta-blockers,High
+Rifampin,Oral Contraceptives,Decreased efficacy of contraceptives,Unplanned pregnancy risk,Barrier methods,High
+Lithium,NSAIDs,Increased lithium levels,"Tremors, nausea",Acetaminophen,High
+Phenytoin,Doxycycline,Decreased antibiotic efficacy,Infections,Amoxicillin,Moderate
+Metoprolol,Verapamil,Bradycardia (low heart rate),"Dizziness, fatigue",Amlodipine,High
+Olanzapine,Benzodiazepines,Increased sedation,"Drowsiness, confusion",SSRIs,Moderate
+Sildenafil,Nitrates,Severe hypotension,"Dizziness, fainting",None,Very High
+Ibuprofen,Aspirin,Increased bleeding risk,"Nausea, stomach pain",Acetaminophen,High
+Lisinopril,Spironolactone,Hyperkalemia (high potassium),"Fatigue, confusion",Amlodipine,High
+Warfarin,Amoxicillin,Decreased efficacy of Warfarin,"Bruising, blood clots",Enoxaparin,Moderate
+Simvastatin,Grapefruit Juice,Increased statin levels,"Muscle pain, liver damage",Rosuvastatin (no interaction),High
+Metformin,Cimetidine,Increased metformin levels,"Nausea, stomach pain",Famotidine,Moderate
+Prednisone,Ibuprofen,Gastrointestinal bleeding risk,"Stomach ulcers, GI bleeding",Acetaminophen,High
+Sertraline,St. John’s Wort,Serotonin syndrome risk,"Agitation, sweating",No herbal alternatives,High
+Ciprofloxacin,Theophylline,Increased theophylline levels,"Nausea, vomiting",Levofloxacin,Moderate
+Digoxin,Furosemide,Increased digoxin toxicity,"Confusion, vision changes",ACE inhibitors,High
+Enalapril,Potassium Supplements,Hyperkalemia,"Irregular heartbeats, weakness",No supplementation,High
+Aspirin,Ginkgo Biloba,Increased bleeding risk,"Easy bruising, internal bleeding",Fish oil (lower dose),Moderate
+Clopidogrel,Omeprazole,Reduced clopidogrel efficacy,Blood clots,Pantoprazole,Moderate
+Fluoxetine,Tramadol,Serotonin syndrome,"Agitation, hallucinations",Bupropion,High
+Amiodarone,Warfarin,Increased bleeding risk,"Easy bruising, internal bleeding",Beta-blockers,High
+Rifampin,Oral Contraceptives,Decreased efficacy of contraceptives,Unplanned pregnancy risk,Barrier methods,High
+Lithium,NSAIDs,Increased lithium levels,"Tremors, nausea",Acetaminophen,High
+Phenytoin,Doxycycline,Decreased antibiotic efficacy,Infections,Amoxicillin,Moderate
+Metoprolol,Verapamil,Bradycardia (low heart rate),"Dizziness, fatigue",Amlodipine,High
+Olanzapine,Benzodiazepines,Increased sedation,"Drowsiness, confusion",SSRIs,Moderate
+Sildenafil,Nitrates,Severe hypotension,"Dizziness, fainting",None,Very High
+Ibuprofen,Aspirin,Increased bleeding risk,"Nausea, stomach pain",Acetaminophen,High
+Lisinopril,Spironolactone,Hyperkalemia (high potassium),"Fatigue, confusion",Amlodipine,High
+Warfarin,Amoxicillin,Decreased efficacy of Warfarin,"Bruising, blood clots",Enoxaparin,Moderate
+Simvastatin,Grapefruit Juice,Increased statin levels,"Muscle pain, liver damage",Rosuvastatin (no interaction),High
+Metformin,Cimetidine,Increased metformin levels,"Nausea, stomach pain",Famotidine,Moderate
+Prednisone,Ibuprofen,Gastrointestinal bleeding risk,"Stomach ulcers, GI bleeding",Acetaminophen,High
+Sertraline,St. John’s Wort,Serotonin syndrome risk,"Agitation, sweating",No herbal alternatives,High
+Ciprofloxacin,Theophylline,Increased theophylline levels,"Nausea, vomiting",Levofloxacin,Moderate
+Digoxin,Furosemide,Increased digoxin toxicity,"Confusion, vision changes",ACE inhibitors,High
+Enalapril,Potassium Supplements,Hyperkalemia,"Irregular heartbeats, weakness",No supplementation,High
+Aspirin,Ginkgo Biloba,Increased bleeding risk,"Easy bruising, internal bleeding",Fish oil (lower dose),Moderate
+Clopidogrel,Omeprazole,Reduced clopidogrel efficacy,Blood clots,Pantoprazole,Moderate
+Fluoxetine,Tramadol,Serotonin syndrome,"Agitation, hallucinations",Bupropion,High
+Amiodarone,Warfarin,Increased bleeding risk,"Easy bruising, internal bleeding",Beta-blockers,High
+Rifampin,Oral Contraceptives,Decreased efficacy of contraceptives,Unplanned pregnancy risk,Barrier methods,High
+Lithium,NSAIDs,Increased lithium levels,"Tremors, nausea",Acetaminophen,High
+Phenytoin,Doxycycline,Decreased antibiotic efficacy,Infections,Amoxicillin,Moderate
+Metoprolol,Verapamil,Bradycardia (low heart rate),"Dizziness, fatigue",Amlodipine,High
+Olanzapine,Benzodiazepines,Increased sedation,"Drowsiness, confusion",SSRIs,Moderate
+Sildenafil,Nitrates,Severe hypotension,"Dizziness, fainting",None,Very High
+Ibuprofen,Aspirin,Increased bleeding risk,"Nausea, stomach pain",Acetaminophen,High
+Lisinopril,Spironolactone,Hyperkalemia (high potassium),"Fatigue, confusion",Amlodipine,High
+Warfarin,Amoxicillin,Decreased efficacy of Warfarin,"Bruising, blood clots",Enoxaparin,Moderate
+Simvastatin,Grapefruit Juice,Increased statin levels,"Muscle pain, liver damage",Rosuvastatin (no interaction),High
+Metformin,Cimetidine,Increased metformin levels,"Nausea, stomach pain",Famotidine,Moderate
+Prednisone,Ibuprofen,Gastrointestinal bleeding risk,"Stomach ulcers, GI bleeding",Acetaminophen,High
+Sertraline,St. John’s Wort,Serotonin syndrome risk,"Agitation, sweating",No herbal alternatives,High
+Ciprofloxacin,Theophylline,Increased theophylline levels,"Nausea, vomiting",Levofloxacin,Moderate
+Digoxin,Furosemide,Increased digoxin toxicity,"Confusion, vision changes",ACE inhibitors,High
+Enalapril,Potassium Supplements,Hyperkalemia,"Irregular heartbeats, weakness",No supplementation,High
+Aspirin,Ginkgo Biloba,Increased bleeding risk,"Easy bruising, internal bleeding",Fish oil (lower dose),Moderate
+Clopidogrel,Omeprazole,Reduced clopidogrel efficacy,Blood clots,Pantoprazole,Moderate
+Fluoxetine,Tramadol,Serotonin syndrome,"Agitation, hallucinations",Bupropion,High
+Amiodarone,Warfarin,Increased bleeding risk,"Easy bruising, internal bleeding",Beta-blockers,High
+Rifampin,Oral Contraceptives,Decreased efficacy of contraceptives,Unplanned pregnancy risk,Barrier methods,High
+Lithium,NSAIDs,Increased lithium levels,"Tremors, nausea",Acetaminophen,High
+Phenytoin,Doxycycline,Decreased antibiotic efficacy,Infections,Amoxicillin,Moderate
+Metoprolol,Verapamil,Bradycardia (low heart rate),"Dizziness, fatigue",Amlodipine,High
+Olanzapine,Benzodiazepines,Increased sedation,"Drowsiness, confusion",SSRIs,Moderate
+Sildenafil,Nitrates,Severe hypotension,"Dizziness, fainting",None,Very High
+Ibuprofen,Aspirin,Increased bleeding risk,"Nausea, stomach pain",Acetaminophen,High
+Lisinopril,Spironolactone,Hyperkalemia (high potassium),"Fatigue, confusion",Amlodipine,High
+Warfarin,Amoxicillin,Decreased efficacy of Warfarin,"Bruising, blood clots",Enoxaparin,Moderate
+Simvastatin,Grapefruit Juice,Increased statin levels,"Muscle pain, liver damage",Rosuvastatin (no interaction),High
+Metformin,Cimetidine,Increased metformin levels,"Nausea, stomach pain",Famotidine,Moderate
+Prednisone,Ibuprofen,Gastrointestinal bleeding risk,"Stomach ulcers, GI bleeding",Acetaminophen,High
+Sertraline,St. John’s Wort,Serotonin syndrome risk,"Agitation, sweating",No herbal alternatives,High
+Ciprofloxacin,Theophylline,Increased theophylline levels,"Nausea, vomiting",Levofloxacin,Moderate
+Digoxin,Furosemide,Increased digoxin toxicity,"Confusion, vision changes",ACE inhibitors,High
+Enalapril,Potassium Supplements,Hyperkalemia,"Irregular heartbeats, weakness",No supplementation,High
+Aspirin,Ginkgo Biloba,Increased bleeding risk,"Easy bruising, internal bleeding",Fish oil (lower dose),Moderate
+Clopidogrel,Omeprazole,Reduced clopidogrel efficacy,Blood clots,Pantoprazole,Moderate
+Fluoxetine,Tramadol,Serotonin syndrome,"Agitation, hallucinations",Bupropion,High
+Amiodarone,Warfarin,Increased bleeding risk,"Easy bruising, internal bleeding",Beta-blockers,High
+Rifampin,Oral Contraceptives,Decreased efficacy of contraceptives,Unplanned pregnancy risk,Barrier methods,High
+Lithium,NSAIDs,Increased lithium levels,"Tremors, nausea",Acetaminophen,High
+Phenytoin,Doxycycline,Decreased antibiotic efficacy,Infections,Amoxicillin,Moderate
+Metoprolol,Verapamil,Bradycardia (low heart rate),"Dizziness, fatigue",Amlodipine,High
+Olanzapine,Benzodiazepines,Increased sedation,"Drowsiness, confusion",SSRIs,Moderate
+Sildenafil,Nitrates,Severe hypotension,"Dizziness, fainting",None,Very High
+Ibuprofen,Aspirin,Increased bleeding risk,"Nausea, stomach pain",Acetaminophen,High
+Lisinopril,Spironolactone,Hyperkalemia (high potassium),"Fatigue, confusion",Amlodipine,High
+Warfarin,Amoxicillin,Decreased efficacy of Warfarin,"Bruising, blood clots",Enoxaparin,Moderate
+Simvastatin,Grapefruit Juice,Increased statin levels,"Muscle pain, liver damage",Rosuvastatin (no interaction),High
+Metformin,Cimetidine,Increased metformin levels,"Nausea, stomach pain",Famotidine,Moderate
+Prednisone,Ibuprofen,Gastrointestinal bleeding risk,"Stomach ulcers, GI bleeding",Acetaminophen,High
+Sertraline,St. John’s Wort,Serotonin syndrome risk,"Agitation, sweating",No herbal alternatives,High
+Ciprofloxacin,Theophylline,Increased theophylline levels,"Nausea, vomiting",Levofloxacin,Moderate
+Digoxin,Furosemide,Increased digoxin toxicity,"Confusion, vision changes",ACE inhibitors,High
+Enalapril,Potassium Supplements,Hyperkalemia,"Irregular heartbeats, weakness",No supplementation,High
+Aspirin,Ginkgo Biloba,Increased bleeding risk,"Easy bruising, internal bleeding",Fish oil (lower dose),Moderate
+Clopidogrel,Omeprazole,Reduced clopidogrel efficacy,Blood clots,Pantoprazole,Moderate
+Fluoxetine,Tramadol,Serotonin syndrome,"Agitation, hallucinations",Bupropion,High
+Amiodarone,Warfarin,Increased bleeding risk,"Easy bruising, internal bleeding",Beta-blockers,High
+Rifampin,Oral Contraceptives,Decreased efficacy of contraceptives,Unplanned pregnancy risk,Barrier methods,High
+Lithium,NSAIDs,Increased lithium levels,"Tremors, nausea",Acetaminophen,High
+Phenytoin,Doxycycline,Decreased antibiotic efficacy,Infections,Amoxicillin,Moderate
+Metoprolol,Verapamil,Bradycardia (low heart rate),"Dizziness, fatigue",Amlodipine,High
+Olanzapine,Benzodiazepines,Increased sedation,"Drowsiness, confusion",SSRIs,Moderate
+Sildenafil,Nitrates,Severe hypotension,"Dizziness, fainting",None,Very High
+Ibuprofen,Aspirin,Increased bleeding risk,"Nausea, stomach pain",Acetaminophen,High
+Lisinopril,Spironolactone,Hyperkalemia (high potassium),"Fatigue, confusion",Amlodipine,High
+Warfarin,Amoxicillin,Decreased efficacy of Warfarin,"Bruising, blood clots",Enoxaparin,Moderate
+Simvastatin,Grapefruit Juice,Increased statin levels,"Muscle pain, liver damage",Rosuvastatin (no interaction),High
+Metformin,Cimetidine,Increased metformin levels,"Nausea, stomach pain",Famotidine,Moderate
+Prednisone,Ibuprofen,Gastrointestinal bleeding risk,"Stomach ulcers, GI bleeding",Acetaminophen,High
+Sertraline,St. John’s Wort,Serotonin syndrome risk,"Agitation, sweating",No herbal alternatives,High
+Ciprofloxacin,Theophylline,Increased theophylline levels,"Nausea, vomiting",Levofloxacin,Moderate
+Digoxin,Furosemide,Increased digoxin toxicity,"Confusion, vision changes",ACE inhibitors,High
+Enalapril,Potassium Supplements,Hyperkalemia,"Irregular heartbeats, weakness",No supplementation,High
+Aspirin,Ginkgo Biloba,Increased bleeding risk,"Easy bruising, internal bleeding",Fish oil (lower dose),Moderate
+Clopidogrel,Omeprazole,Reduced clopidogrel efficacy,Blood clots,Pantoprazole,Moderate
+Fluoxetine,Tramadol,Serotonin syndrome,"Agitation, hallucinations",Bupropion,High
+Amiodarone,Warfarin,Increased bleeding risk,"Easy bruising, internal bleeding",Beta-blockers,High
+Rifampin,Oral Contraceptives,Decreased efficacy of contraceptives,Unplanned pregnancy risk,Barrier methods,High
+Lithium,NSAIDs,Increased lithium levels,"Tremors, nausea",Acetaminophen,High
+Phenytoin,Doxycycline,Decreased antibiotic efficacy,Infections,Amoxicillin,Moderate
+Metoprolol,Verapamil,Bradycardia (low heart rate),"Dizziness, fatigue",Amlodipine,High
+Olanzapine,Benzodiazepines,Increased sedation,"Drowsiness, confusion",SSRIs,Moderate
+Sildenafil,Nitrates,Severe hypotension,"Dizziness, fainting",None,Very High
+Ibuprofen,Aspirin,Increased bleeding risk,"Nausea, stomach pain",Acetaminophen,High
+Lisinopril,Spironolactone,Hyperkalemia (high potassium),"Fatigue, confusion",Amlodipine,High
+Warfarin,Amoxicillin,Decreased efficacy of Warfarin,"Bruising, blood clots",Enoxaparin,Moderate
+Simvastatin,Grapefruit Juice,Increased statin levels,"Muscle pain, liver damage",Rosuvastatin (no interaction),High
+Metformin,Cimetidine,Increased metformin levels,"Nausea, stomach pain",Famotidine,Moderate
+Prednisone,Ibuprofen,Gastrointestinal bleeding risk,"Stomach ulcers, GI bleeding",Acetaminophen,High
+Sertraline,St. John’s Wort,Serotonin syndrome risk,"Agitation, sweating",No herbal alternatives,High
+Ciprofloxacin,Theophylline,Increased theophylline levels,"Nausea, vomiting",Levofloxacin,Moderate
+Digoxin,Furosemide,Increased digoxin toxicity,"Confusion, vision changes",ACE inhibitors,High
+Enalapril,Potassium Supplements,Hyperkalemia,"Irregular heartbeats, weakness",No supplementation,High
+Aspirin,Ginkgo Biloba,Increased bleeding risk,"Easy bruising, internal bleeding",Fish oil (lower dose),Moderate
+Clopidogrel,Omeprazole,Reduced clopidogrel efficacy,Blood clots,Pantoprazole,Moderate
+Fluoxetine,Tramadol,Serotonin syndrome,"Agitation, hallucinations",Bupropion,High
+Amiodarone,Warfarin,Increased bleeding risk,"Easy bruising, internal bleeding",Beta-blockers,High
+Rifampin,Oral Contraceptives,Decreased efficacy of contraceptives,Unplanned pregnancy risk,Barrier methods,High
+Lithium,NSAIDs,Increased lithium levels,"Tremors, nausea",Acetaminophen,High
+Phenytoin,Doxycycline,Decreased antibiotic efficacy,Infections,Amoxicillin,Moderate
+Metoprolol,Verapamil,Bradycardia (low heart rate),"Dizziness, fatigue",Amlodipine,High
+Olanzapine,Benzodiazepines,Increased sedation,"Drowsiness, confusion",SSRIs,Moderate
+Sildenafil,Nitrates,Severe hypotension,"Dizziness, fainting",None,Very High
