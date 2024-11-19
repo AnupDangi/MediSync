@@ -10,7 +10,6 @@ This project aims to build an innovative, user-friendly solution that goes beyon
 
 - **AI-driven interaction predictions**  
 - **Health tracking**  
-- **Real-time alerts**  
 
 ## How It Works  
 
@@ -21,7 +20,6 @@ Leveraging Artificial Intelligence (AI), the MediSync app utilizes a machine lea
 - **Drug Interaction Analysis**: Identify potential interactions between multiple medications.  
 - **AI Predictions**: Get predictions for newer or lesser-known drugs.  
 - **Health Tracking**: Monitor health metrics related to medication use.  
-- **Real-time Alerts**: Receive immediate notifications about potential interactions.  
 
 ## Technologies Used  
 
