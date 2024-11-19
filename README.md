@@ -36,9 +36,9 @@ To set up the MediSync application locally, follow these steps:
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/MediSync.git  
-   cd MediSync
-```
+      git clone https://github.com/yourusername/MediSync.git  
+      cd MediSync
+   ```
 2. Install the necessary dependencies for both the frontend and backend(eg dotenv,express,react-router-dom and more check out the imports):
 
 For the frontend:
