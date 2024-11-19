@@ -1,0 +1,61 @@
+.welcome-page {  
+  display: flex;  
+  flex-direction: column;  
+  align-items: center;  
+  justify-content: center;  
+  height: calc(100vh - 60px); /* Subtract the navbar height to fit below */  
+  text-align: center;  
+  background-image: linear-gradient(rgba(76, 76, 137, 0.7), rgba(76, 76, 137, 0.7)), url('home.png'); /* Modify as per your image */  
+  background-size: cover;   
+  background-position: center;  
+  background-repeat: no-repeat;  
+  color: #ffffff; /* Light text color for good contrast */  
+  padding: 20px;  
+}  
+
+/* Button and Footer Styling */  
+.get-started-button {  
+  background-color: #28a745; /* A vibrant green for the button */  
+  color: #ffffff; /* Contrast text color */  
+  padding: 0.8rem 2rem; /* Increased padding for a larger button */  
+  border: none;  
+  border-radius: 5px;  
+  cursor: pointer;  
+  font-size: 1.2rem; /* Larger font size for emphasis */  
+  transition: background-color 0.3s, transform 0.2s; /* Smooth background and hover effects */  
+  margin-top: 20px;  
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Shadow for depth */  
+}  
+
+.get-started-button:hover {  
+  background-color: #218838; /* Darker green on hover */  
+  transform: translateY(-2px); /* Lift effect for interactivity */  
+}  
+
+footer {  
+  margin-top: 2rem;  
+  font-size: 0.9rem;  
+  color: #dcdcdc; /* Slightly muted to be less prominent */  
+  text-align: center;  
+}  
+
+/* Navbar Title Styling */  
+.navbar-title {  
+  background: none;  
+  border: none;  
+  color: #ffffff;   
+  font-size: 2rem; /* Larger font size for the title */  
+  cursor: pointer;  
+  font-weight: bold;  
+}  
+
+.navbar-title:hover {  
+  color: #ccc; /* Subtle change to indicate hover */  
+}  
+
+/* Additional Text for Clarity */  
+.welcome-description {  
+  font-size: 1rem; /* Standard font size */  
+  color: rgba(255, 255, 255, 0.9); /* Slight transparency for better contrast */  
+  margin-bottom: 20px; /* Spacing below description */  
+}
