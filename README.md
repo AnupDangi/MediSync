@@ -1,70 +1,90 @@
-# Getting Started with Create React App
+# MediSync  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview  
 
-## Available Scripts
+**MediSync** is an AI-powered drug interaction checker application designed to help users ensure the safe use of multiple medications by identifying and analyzing potential drug interactions. With the increasing complexity of medical prescriptions, particularly in patients with chronic conditions or those taking multiple drugs, understanding how medications interact is crucial to avoid adverse effects.  
 
-In the project directory, you can run:
+## Project Goals  
 
-### `npm start`
+This project aims to build an innovative, user-friendly solution that goes beyond standard drug interaction databases by incorporating:  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **AI-driven interaction predictions**  
+- **Health tracking**  
+- **Real-time alerts**  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## How It Works  
 
-### `npm test`
+Leveraging Artificial Intelligence (AI), the MediSync app utilizes a machine learning model trained on a large dataset of known drug interactions, side effects, and pharmacological data. The AI system predicts interactions for newer or lesser-known medications, providing a safeguard even when the drugs are not fully documented in standard databases. This enables the app to offer dynamic interaction warnings and improve the accuracy of the interaction detection process.  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Features  
 
-### `npm run build`
+- **Drug Interaction Analysis**: Identify potential interactions between multiple medications.  
+- **AI Predictions**: Get predictions for newer or lesser-known drugs.  
+- **Health Tracking**: Monitor health metrics related to medication use.  
+- **Real-time Alerts**: Receive immediate notifications about potential interactions.  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Technologies Used  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Frontend**: React, CSS, JavaScript  
+- **Backend**: Python Flask for machine learning model integration  
+- **Database**: MongoDB for storing user data and medication information  
+- **User Authentication**: Node.js for managing user authentication and database queries  
+- **AI Model**: H2O.ai for building the machine learning model, which utilizes various auto-optimizing and selection algorithms based on the input data  
+- **Data Management**: CSV files stored and queried from the database  
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Installation  
 
-### `npm run eject`
+To set up the MediSync application locally, follow these steps:  
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Clone the repository:  
+   ```bash  
+   git clone https://github.com/yourusername/MediSync.git  
+   cd MediSync
+```
+2. Install the necessary dependencies for both the frontend and backend(eg dotenv,express,react-router-dom and more check out the imports):
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+For the frontend:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+    cd src 
+    npm install  
+```
+For the backend:
+```bash
+cd backend
+pip install -r requirements.txt  
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+3.  Set up the MongoDB database and ensure that it's running.
 
-## Learn More
+4.  Start the backend server:
+```bash
+    python server.py  
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+5. For ML model also as it using flask run the server using virtual environment.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+    (venv)  python symptom_checker.py  
+```
 
-### Code Splitting
+```bash
+(venv)  python compactibility_checker.py  
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+6. Start the frontend Server 
+```bash
+  npm start
+```
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+## Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Contributions are always welcome.
+Feel free to use this project and modify based on your requirement.
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## License
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is licensed under the MIT License - see the LICENSE file for details
