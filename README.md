@@ -13,7 +13,7 @@ This project aims to build an innovative, user-friendly solution that goes beyon
 
 ## How It Works  
 
-Leveraging Artificial Intelligence (AI), the MediSync app utilizes a machine learning model trained on a large dataset of known drug interactions, side effects, and pharmacological data. The AI system predicts interactions for newer or lesser-known medications, providing a safeguard even when the drugs are not fully documented in standard databases. This enables the app to offer dynamic interaction warnings and improve the accuracy of the interaction detection process.  
+Leveraging Artificial Intelligence (AI), the MediSync app utilizes a machine learning model trained on a small dataset of known drug interactions, side effects, and pharmacological data. The AI system predicts interactions for newer or lesser-known medications, providing a safeguard even when the drugs are not fully documented in standard databases. This enables the app to offer dynamic interaction warnings and improve the accuracy of the interaction detection process.  
 
 ## Features  
 
