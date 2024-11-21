@@ -1,6 +1,7 @@
 # MediSync  
 
 ## Overview  
+**This is the project we made on our first hackathon 'QuantaMaze 2.0'.Me and my team we very excited to learn and grow.**
 
 **MediSync** is an AI-powered drug interaction checker application designed to help users ensure the safe use of multiple medications by identifying and analyzing potential drug interactions. With the increasing complexity of medical prescriptions, particularly in patients with chronic conditions or those taking multiple drugs, understanding how medications interact is crucial to avoid adverse effects.  
 
